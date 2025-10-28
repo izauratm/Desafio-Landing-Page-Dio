@@ -1,4 +1,4 @@
-# Projeto Desafio Landing Page Trilha CSS / CSS Track Challenge Project: Landing Page 
+# <h1 align="center">Projeto Desafio Landing Page Trilha CSS / CSS Track Challenge Project: Landing Page </h1>
 
 ##  ![marketing](https://github.com/user-attachments/assets/427265f3-e3fc-4b0b-a74c-af0479de6693) Objetivo
 O desafio é criar uma landing page utilizando e explorando todos os conceitos aprendidos na Trilha CSS com os conhecimentos adquiridos no curso Bootcamp Santander 2025 Front-End Java Script da Dio.me.
