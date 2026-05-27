@@ -47,7 +47,7 @@ p {
 }
 
 /* Botão básico */
-button {
+.btn-inscrever {
   padding: 10px 25px;
   font-size: 1em;
   background-color: #00f0ff;
@@ -55,6 +55,7 @@ button {
   border-radius: 8px;
   color: #0b0c2e;
   cursor: pointer;
+  text-decoration: none;
 }
 
 /* Conteúdo do curso*/
